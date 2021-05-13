@@ -39,3 +39,26 @@ li {
   margin: 0 0 0 15px;
   font-size: 14px;
 }
+
+#main-contents{
+  top:80px;
+  width: 100%;
+  display: flex;
+  position: fixed;
+
+
+}
+.index_side{
+  width: 80%;
+  height: 1000px;
+  background-color:red;
+  
+
+
+}
+.index_main{
+  width: 20%;
+  height: 1000px;
+  background-color:blue;
+
+}
