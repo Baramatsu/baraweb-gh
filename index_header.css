@@ -40,7 +40,13 @@ li {
   font-size: 14px;
 }
 
+.index_emply{
+  width: 100%;
+  height:70px;
+}
+
 #main-contents{
+
   top:80px;
   width: 100%;
   display: flex;
@@ -61,3 +67,4 @@ li {
   background-color: bisque;
 
 }
+
