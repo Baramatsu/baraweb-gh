@@ -76,3 +76,12 @@ li {
 .contents{
   margin: 30px;
 }
+
+.thema_of_contents{
+  font-size: 18px;
+  color:black;
+}
+.date_of_contents{
+  font-size: 14px;
+  color:gray;
+}
