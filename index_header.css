@@ -53,7 +53,7 @@ li {
 
 
 }
-.index_side{
+.index_main{
   width: 80%;
   height: 1000px;
   background-color: blanchedalmond;
@@ -61,10 +61,18 @@ li {
 
 
 }
-.index_main{
+.index_side{
   width: 20%;
   height: 1000px;
   background-color: bisque;
 
 }
-
+.index_posts{
+  margin: 30px;
+}
+.context_in_posts{
+  margin: 30px;
+}
+.contents{
+  margin: 30px;
+}
